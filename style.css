@@ -1,0 +1,52 @@
+.container {
+    margin-bottom: 50px;
+}
+
+.body {
+    font-family: 'Poppins', sans-serif;
+}
+.menu-section {
+    margin: 0px;
+    background-color: #F0FFF0;
+}
+
+.logo-images {
+    width: 100px;
+}
+.nav-button {
+ background-color: #21b573;
+ border-radius: 15px;
+}
+
+.buy-now-btn {
+    margin-top: 10px;
+    background-color: #21b573;
+    border-radius: 10px;
+    color: #FFFFFF;
+    padding: 10px 20px;
+    border: none;
+}
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    line-height: 70px;
+}
+h5 {
+    color: #FD511A;
+    line-height: 40px;
+}
+
+#text-design {
+    color: #21b573;
+} 
+p {
+    line-height: 35px;
+}
+
+.our-achivement {
+    height: 100px;
+    width: 130px;
+    padding: 20px;
+    text-align: center;
+    margin: 10px;
+}
